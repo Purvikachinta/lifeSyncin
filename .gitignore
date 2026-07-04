@@ -1,0 +1,6 @@
+node_modules/
+lifesync.db
+lifesync.db-shm
+lifesync.db-wal
+*.log
+.env
